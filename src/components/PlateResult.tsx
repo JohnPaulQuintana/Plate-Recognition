@@ -1,4 +1,4 @@
-import { Car, Search } from "lucide-react";
+import { Search } from "lucide-react";
 
 interface PlateResultProps {
   plate: string;
